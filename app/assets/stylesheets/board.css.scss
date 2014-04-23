@@ -1,0 +1,18 @@
+// Place all the styles related to the board controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+table {
+  line-height: normal;
+}
+
+td {
+  font-size: 16px;
+  width: 30px;
+  height: 30px;
+  margin: 1px;
+  background-color: Silver;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 4px;
+}

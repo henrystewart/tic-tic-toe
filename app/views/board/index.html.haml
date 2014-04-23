@@ -1,0 +1,27 @@
+%p
+  Tic Tac Toe
+
+/ #game
+
+%div#entire_board
+  
+  %table#entire_board_table
+    %tr
+      %td#0
+      %td#1
+      %td#2
+    %tr
+      %td#3
+      %td#4
+      %td#5
+    %tr
+      %td#6
+      %td#7
+      %td#8
+
+:javascript
+  $(function(){
+    window.view = new TicTacToe.Views.Game();
+
+
+  });

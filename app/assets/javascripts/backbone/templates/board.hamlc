@@ -1,0 +1,17 @@
+%div#entire_board
+  
+  %table#entire_board_table
+    %tr
+      %td#cell_1
+      %td#cell_2
+      %td#cell_3
+    %tr
+      %td#cell_4
+      %td#cell_5
+      %td#cell_6
+    %tr
+      %td#cell_7
+      %td#cell_8
+      %td#cell_9
+
+  
